@@ -1,3 +1,5 @@
+#Este es mi puto archivo de views
+
 from django.urls import path
 from . import views
 
